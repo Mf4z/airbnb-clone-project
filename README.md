@@ -34,7 +34,7 @@ The project mirrors **real-world engineering standards** , covering backend arch
 
 ---
 
-## 🧑‍💻 Roles & Responsibilities
+## 🧑‍💻 Team Roles
 
 | Role                             | Responsibilities                                                                                            |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
